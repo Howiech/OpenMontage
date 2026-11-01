@@ -104,3 +104,6 @@ venv/
 
 # Local Wan / diffusers GPU environment
 .venv-wan/
+
+# External skills mirrored from GitHub by scripts/sync-external-skills.sh
+.claude/skill-sources/
